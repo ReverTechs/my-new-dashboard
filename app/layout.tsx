@@ -2,7 +2,7 @@ import "@/app/ui/global.css";
 import { roboto,lusitana } from "./ui/fonts";
 
 
-export default function RootLayout({
+ export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
